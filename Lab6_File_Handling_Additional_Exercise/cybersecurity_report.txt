@@ -1,0 +1,15 @@
+=== Cybersecurity Incident Report ===
+Target Year: 2022
+Total Records Processed: 50001
+Incidents in Target Year: 0
+Total Financial Loss (USD Millions): 0.0000
+Average Financial Loss (USD Millions): 0.0000
+
+--- Count Per Attack Type ---
+
+--- Five Costliest Incidents ---
+
+--- Output Files ---
+Filtered CSV: cybersecurity_incidents_filtered.csv
+JSON Summary: cybersecurity_summary.json
+Backup JSON: Success. Backup created at cybersecurity_summary_backup.json

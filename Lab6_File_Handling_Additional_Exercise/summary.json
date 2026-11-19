@@ -1,0 +1,22 @@
+{
+    "records_processed": 1020,
+    "target_status_class": "5xx",
+    "records_in_target_class": 34,
+    "count_per_status_code": {
+        "560": 8,
+        "520": 5,
+        "540": 11,
+        "500": 3,
+        "580": 7
+    },
+    "top_5_urls": [
+        {
+            "url": "17/12/2006",
+            "count": 31
+        },
+        {
+            "url": "16/12/2006",
+            "count": 3
+        }
+    ]
+}
