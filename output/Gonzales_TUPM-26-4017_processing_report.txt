@@ -1,0 +1,18 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+Last Name: Gonzales
+Student ID: TUPM-26-4017
+Seed Digit: 7
+ID Sum: 20
+Verification Value: 167
+Dataset Sample Size: 70
+Valid Records: 70
+Last Name: Gonzales
+Student ID: TUPM-26-4017
+Seed Digit: 7
+ID Sum: 20
+Verification Value: 167
+Dataset Sample Size: 70
+Valid Records: 70
+Average Global Active Power: 4.022
+JSON File: Gonzales_TUPM-26-4017_record.json
+Backup File: Gonzales_TUPM-26-4017_record.csv
